@@ -19,7 +19,7 @@ To test and compare how ChatGPT responds to different types of prompts, especial
 
 For this experiment, two different types of prompts are used.
 
-### A. Naïve Prompt
+### A. Naive Prompt
 
 A naïve prompt is a simple prompt where the user gives only the basic requirement without providing much context, instructions, examples, or output format.
 
@@ -59,7 +59,7 @@ For every scenario, both a naïve prompt and a refined prompt are given to ChatG
 
 # SCENARIO 1 – CREATIVE STORY GENERATION
 
-## Naïve Prompt
+## Naive Prompt
 
 > "write a story about a student who finds a robot"
 
@@ -91,7 +91,7 @@ Therefore, the generated story is expected to be more focused and complete.
 
 # SCENARIO 2 – ANSWERING A FACTUAL QUESTION
 
-## Naïve Prompt
+## Naive Prompt
 
 > "what is blockchain"
 
@@ -119,7 +119,7 @@ For example, imagine a group of students maintaining a common notebook where eve
 
 # SCENARIO 3 – SUMMARIZING A CONCEPT
 
-## Naïve Prompt
+## Naive Prompt
 
 > "summarize machine learning"
 
@@ -166,7 +166,7 @@ Machine Learning is a branch of AI where computers learn patterns from data and 
 
 # SCENARIO 4 – PROVIDING A RECOMMENDATION
 
-## Naïve Prompt
+## Naive Prompt
 
 > "which programming language should I learn"
 
@@ -196,7 +196,7 @@ Python is a good programming language for beginners because it has simple syntax
 
 # SCENARIO 5 – TECHNICAL PROBLEM SOLVING
 
-## Naïve Prompt
+## Naive Prompt
 
 > "my wifi is slow what should i do"
 
