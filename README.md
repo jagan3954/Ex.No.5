@@ -62,7 +62,8 @@ For every scenario, both a naïve prompt and a refined prompt are given to ChatG
 ## Naive Prompt
 
 > "write a story about a student who finds a robot"
-> <img width="458" height="457" alt="image" src="https://github.com/user-attachments/assets/e0b8643e-b893-40c5-8c34-779787c56b34" />
+
+<img width="458" height="457" alt="image" src="https://github.com/user-attachments/assets/e0b8643e-b893-40c5-8c34-779787c56b34" />
 
 
 ### Expected Observation
