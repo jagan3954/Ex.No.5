@@ -62,6 +62,8 @@ For every scenario, both a naïve prompt and a refined prompt are given to ChatG
 ## Naive Prompt
 
 > "write a story about a student who finds a robot"
+> <img width="458" height="457" alt="image" src="https://github.com/user-attachments/assets/e0b8643e-b893-40c5-8c34-779787c56b34" />
+
 
 ### Expected Observation
 
@@ -72,6 +74,7 @@ The prompt gives only the main idea. ChatGPT has to decide the story length, cha
 ## Refined Prompt
 
 > "I want you to write a short interesting story about a college student who finds a small robot inside an old laboratory. Make the story around 500 words and keep the language simple and natural. The robot should have a secret that the student slowly discovers. Add some suspense in the middle and give the story a meaningful ending. Make it feel like something that could actually happen rather than making it too complicated."
+<img width="620" height="412" alt="image" src="https://github.com/user-attachments/assets/fb5d224b-3cd4-489f-9347-1039cb35b87f" />
 
 ### Expected Observation
 
